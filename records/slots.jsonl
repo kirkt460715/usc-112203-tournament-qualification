@@ -1,0 +1,9 @@
+{"id":"B1","slot":11,"arena":"roomA","blocked":false}
+{"id":"B2","slot":12,"arena":"roomA","blocked":true}
+{"id":"B3","slot":13,"arena":"roomB","blocked":false}
+{"id":"B4","slot":14,"arena":"roomA","blocked":false}
+{"id":"B5","slot":15,"arena":"roomA","blocked":true}
+{"id":"B6","slot":16,"arena":"roomB","blocked":false}
+{"id":"B7","slot":17,"arena":"roomA","blocked":false}
+{"id":"B8","slot":18,"arena":"roomA","blocked":false}
+{"id":"B9","slot":19,"arena":"roomB","blocked":false}

@@ -1,0 +1,12 @@
+{"id":"N1","area":"N","seed":1,"starter":"N1-first","backup":"N1-bench"}
+{"id":"N2","area":"N","seed":2,"starter":"N2-first","backup":"N2-bench"}
+{"id":"N3","area":"N","seed":3,"starter":"N3-first","backup":"N3-bench"}
+{"id":"N4","area":"N","seed":4,"starter":"N4-first","backup":"N4-bench"}
+{"id":"N5","area":"N","seed":5,"starter":"N5-first","backup":"N5-bench"}
+{"id":"N6","area":"N","seed":6,"starter":"N6-first","backup":"N6-bench"}
+{"id":"S1","area":"S","seed":1,"starter":"S1-first","backup":"S1-bench"}
+{"id":"S2","area":"S","seed":2,"starter":"S2-first","backup":"S2-bench"}
+{"id":"S3","area":"S","seed":3,"starter":"S3-first","backup":"S3-bench"}
+{"id":"S4","area":"S","seed":4,"starter":"S4-first","backup":"S4-bench"}
+{"id":"S5","area":"S","seed":5,"starter":"S5-first","backup":"S5-bench"}
+{"id":"S6","area":"S","seed":6,"starter":"S6-first","backup":"S6-bench"}

@@ -1,0 +1,22 @@
+{
+  "teams": {
+    "rows": 12,
+    "sha256": "26f22fe793076369f96af80cf2138f0f14e69cfc850b62cedbd5984ab4391f6c"
+  },
+  "games": {
+    "rows": 102,
+    "sha256": "4589efb0f7d960493da6fbf7ada17b332c38a219892f8427a3203af309a876d2"
+  },
+  "slots": {
+    "rows": 9,
+    "sha256": "dbeca691f2775aa275a02082611592a17511fa87d5f7cf360a76e486d54255e3"
+  },
+  "rules": {
+    "rows": 3,
+    "sha256": "0f6fd4a0ad6e517c0be427286173938ee76c1592f082f6ddde81a3651afca54b"
+  },
+  "rulings": {
+    "rows": 3,
+    "sha256": "a5b19dbf398b3c5dd607aea20543024f7dac151ba22573d1bb8d0e56a721446d"
+  }
+}
