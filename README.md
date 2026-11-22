@@ -14,4 +14,4 @@ records 保存可离线使用的合成业务记录。每行一个 UTF-8 JSON 对
 
 ## 核对资料
 
-运行环境为 Python 3.11，使用标准库，无需下载依赖。用 `python3 -m unittest discover -v` 核对发行资料的完整性与约定的输入关系。
+运行环境为 Python 3.11，使用标准库，无需下载依赖。用 `python3 -m unittest discover -s tests -v` 核对发行资料的完整性与约定的输入关系。
